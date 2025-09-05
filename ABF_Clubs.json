@@ -1,0 +1,2384 @@
+[
+  {
+    "<!doctype html>": "<html>"
+  },
+  {
+    "<!doctype html>": "  <meta charset=\"utf-8\">"
+  },
+  {
+    "<!doctype html>": "  <title>ABF_Clubs.csv (mirror)</title>"
+  },
+  {
+    "<!doctype html>": "  <body>"
+  },
+  {
+    "<!doctype html>": "    <pre>"
+  },
+  {
+    "<!doctype html>": "    "
+  },
+  {
+    "<!doctype html>": "    "
+  },
+  {
+    "<!doctype html>": "ABF",
+    "null": [
+      "ShortName",
+      "ClubName"
+    ]
+  },
+  {
+    "<!doctype html>": "5-704",
+    "null": [
+      "Adelaide",
+      "Adelaide Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "6-754",
+    "null": [
+      "Albany",
+      "Albany Bridge Club Inc."
+    ]
+  },
+  {
+    "<!doctype html>": "8-910",
+    "null": [
+      "Alice Springs",
+      "Alice Springs Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "8-915",
+    "null": [
+      "Arafura ",
+      "Arafura Bridge Club Inc."
+    ]
+  },
+  {
+    "<!doctype html>": "4-503",
+    "null": [
+      "Arana",
+      "Arana Contract Bridge Club Inc."
+    ]
+  },
+  {
+    "<!doctype html>": "6-753",
+    "null": [
+      "Armadale",
+      "Armadale Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-010",
+    "null": [
+      "Armidale",
+      "Armidale Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-763",
+    "null": [
+      "Avon Valley Bri",
+      "Avon Valley Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-308",
+    "null": [
+      "Bairnsdale",
+      "BAIRNSDALE BRIDGE CLUB INCORPORATED"
+    ]
+  },
+  {
+    "<!doctype html>": "2-136",
+    "null": [
+      "Balgowlah",
+      "BALGOWLAH-DEE WHY RSL BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-309",
+    "null": [
+      "Ballarat",
+      "BALLARAT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-016",
+    "null": [
+      "Ballina",
+      "BALLINA BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-018",
+    "null": [
+      "Ballina Seniors",
+      "BALLINA SENIORS BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-019",
+    "null": [
+      "Batemans Bay",
+      "BATEMANS BAY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-015",
+    "null": [
+      "Bathurst",
+      "BATHURST & DISTRICT BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-009",
+    "null": [
+      "Bega Valley",
+      "BEGA VALLEY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-313",
+    "null": [
+      "Benalla",
+      "BENALLA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-315",
+    "null": [
+      "Bendigo",
+      "BENDIGO BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "3-317",
+    "null": [
+      "Berwick",
+      "BERWICK BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "5-705",
+    "null": [
+      "Blue Lake",
+      "BLUE LAKE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-020",
+    "null": [
+      "Blue Mtns",
+      "BLUE MOUNTAINS BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "4-584",
+    "null": [
+      "Bowen",
+      "BOWEN CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-013",
+    "null": [
+      "Bowral",
+      "BOWRAL BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-244",
+    "null": [
+      "Bridge @ the Bay",
+      "Bridge @ The Bay"
+    ]
+  },
+  {
+    "<!doctype html>": "6-751",
+    "null": [
+      "BAWA",
+      "Bridge Association of WA"
+    ]
+  },
+  {
+    "<!doctype html>": "1-801",
+    "null": [
+      "Bridge Federati",
+      "Bridge Federation of the ACT"
+    ]
+  },
+  {
+    "<!doctype html>": "5-708",
+    "null": [
+      "Barossa",
+      "BRIDGE IN THE BAROSSA"
+    ]
+  },
+  {
+    "<!doctype html>": "2-006",
+    "null": [
+      "Sydney",
+      "SYDNEY BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "6-761",
+    "null": [
+      "Bridgetown",
+      "BRIDGETOWN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-528",
+    "null": [
+      "Brisbane",
+      "BRISBANE BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-022",
+    "null": [
+      "Brisbane Water",
+      "BRISBANE WATER BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "4-508",
+    "null": [
+      "Broadwater",
+      "BROADWATER BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "5-707",
+    "null": [
+      "Broken Hill",
+      "BROKEN HILL BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-021",
+    "null": [
+      "BRUNSWICK VALLE",
+      "BRUNSWICK VALLEY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-757",
+    "null": [
+      "Bunbury",
+      "BUNBURY BRIDGE CLUB INCORPORATED"
+    ]
+  },
+  {
+    "<!doctype html>": "4-587",
+    "null": [
+      "Bundaberg",
+      "BUNDABERG CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-017",
+    "null": [
+      "Bungendore",
+      "BUNGENDORE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-804",
+    "null": [
+      "BURNIE BRIDGE C",
+      "BURNIE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-755",
+    "null": [
+      "Busselton",
+      "BUSSELTON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-023",
+    "null": [
+      "Byron Bay",
+      "Byron Bay Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-515",
+    "null": [
+      "Caboolture",
+      "Caboolture Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-590",
+    "null": [
+      "Cairns",
+      "CAIRNS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-592",
+    "null": [
+      "CALOUNDRA CONTR",
+      "CALOUNDRA CONTRACT BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-024",
+    "null": [
+      "Camden Haven",
+      "CAMDEN HAVEN LUSC BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "1-851",
+    "null": [
+      "Canberra",
+      "CANBERRA BRIDGE CLUB INCORPORATED"
+    ]
+  },
+  {
+    "<!doctype html>": "6-756",
+    "null": [
+      "CANNING DISTRIC",
+      "CANNING DISTRICT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "1-855",
+    "null": [
+      "CAPITAL BRIDGE ",
+      "CAPITAL BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-513",
+    "null": [
+      "CAPRICORN CONTR",
+      "CAPRICORN CONTRACT BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "4-518",
+    "null": [
+      "CARDS BRIDGE CE",
+      "CARDS BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-077",
+    "null": [
+      "CARLINGFORD BRI",
+      "CARLINGFORD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-034",
+    "null": [
+      "CARNARVON BRIDG",
+      "CARNARVON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-032",
+    "null": [
+      "CASTLE HILL COU",
+      "CASTLE HILL COUNTRY CLUB - BRIDGE GROUP"
+    ]
+  },
+  {
+    "<!doctype html>": "2-025",
+    "null": [
+      "Central Coast",
+      "CENTRAL COAST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-036",
+    "null": [
+      "Cent Coast Lg",
+      "CENTRAL COAST LEAGUES LIMITED BRIDGE CLU"
+    ]
+  },
+  {
+    "<!doctype html>": "2-029",
+    "null": [
+      "Cessnock",
+      "CESSNOCK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-026",
+    "null": [
+      "Charlestown",
+      "Charlestown Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-758",
+    "null": [
+      "Melville",
+      "City of Melville Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-522",
+    "null": [
+      "CLEVELAND BAY B",
+      "CLEVELAND BAY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-028",
+    "null": [
+      "Coffs Harbour",
+      "COFFS HARBOUR BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-005",
+    "null": [
+      "Albury",
+      "Commercial Club Albury"
+    ]
+  },
+  {
+    "<!doctype html>": "6-759",
+    "null": [
+      "COMMUNITY BRIDG",
+      "COMMUNITY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-031",
+    "null": [
+      "CONCORD BRIDGE ",
+      "CONCORD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-037",
+    "null": [
+      "Condobolin",
+      "CONDOBOLIN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-523",
+    "null": [
+      "COOLUM BRIDGE C",
+      "COOLUM BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-030",
+    "null": [
+      "Coonabarabran",
+      "COONABARABRAN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "1-858",
+    "null": [
+      "Cootamundra",
+      "COOTAMUNDRA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-038",
+    "null": [
+      "Cowra",
+      "COWRA & DISTRICT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-598",
+    "null": [
+      "Dalby",
+      "Dalby Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-530",
+    "null": [
+      "Darling Downs",
+      "Darling Downs Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "8-930",
+    "null": [
+      "Darwin",
+      "DARWIN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-809",
+    "null": [
+      "Devonport",
+      "Devonport Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-760",
+    "null": [
+      "DIANELLA CONTRA",
+      "DIANELLA CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-330",
+    "null": [
+      "DONALD BRIDGE C",
+      "DONALD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-063",
+    "null": [
+      "DORA CREEK BRID",
+      "DORA CREEK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-061",
+    "null": [
+      "GS Double Bay",
+      "DOUBLE BAY BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "3-335",
+    "null": [
+      "DROMANA BRIDGE ",
+      "DROMANA BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-130",
+    "null": [
+      "Dubbo",
+      "Dubbo Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-678",
+    "null": [
+      "Malanda",
+      "Malanda Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-338",
+    "null": [
+      "Eastern",
+      "EASTERN CONTRACT BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "7-814",
+    "null": [
+      "Eastern Shore",
+      "EASTERN SHORE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-535",
+    "null": [
+      "Birkdale",
+      "Birkdale Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-065",
+    "null": [
+      "Easts",
+      "EASTS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-340",
+    "null": [
+      "Echuca",
+      "Echuca Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-762",
+    "null": [
+      "Esperance",
+      "ESPERANCE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-067",
+    "null": [
+      "FINESSE BRIDGE ",
+      "FINESSE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-066",
+    "null": [
+      "FORBES BRIDGE C",
+      "FORBES BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-069",
+    "null": [
+      "FORESTVILLE R.S",
+      "FORESTVILLE R.S.L. BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-356",
+    "null": [
+      "Frankston",
+      "Frankston Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-764",
+    "null": [
+      "Fremantle",
+      "FREMANTLE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "5-711",
+    "null": [
+      "Gawler",
+      "GAWLER & DISTRICT BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "3-360",
+    "null": [
+      "Geelong",
+      "GEELONG BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-766",
+    "null": [
+      "GERALDTON BRIDG",
+      "GERALDTON BRIDGE CLUB INCORPORATED"
+    ]
+  },
+  {
+    "<!doctype html>": "2-070",
+    "null": [
+      "Glen",
+      "Glen Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "5-715",
+    "null": [
+      "Glenelg",
+      "GLENELG CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-620",
+    "null": [
+      "Gold Coast",
+      "GOLD COAST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-622",
+    "null": [
+      "Goondiwindi",
+      "GOONDIWINDI CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-074",
+    "null": [
+      "GORDON BRIDGE C",
+      "GORDON BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "6-767",
+    "null": [
+      "GOSNELLS DISTRI",
+      "GOSNELLS DISTRICT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-080",
+    "null": [
+      "Goulburn",
+      "GOULBURN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-081",
+    "null": [
+      "Great Lakes",
+      "GREAT LAKES BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-085",
+    "null": [
+      "Griffith",
+      "GRIFFITH EX-SERVICEMENS CLUB BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-089",
+    "null": [
+      "GULARGAMBONE BR",
+      "GULARGAMBONE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-087",
+    "null": [
+      "Gunnedah",
+      "GUNNEDAH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-625",
+    "null": [
+      "Gympie",
+      "Gympie Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-091",
+    "null": [
+      "HARBOURVIEW BRI",
+      "HARBOURVIEW BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-093",
+    "null": [
+      "Hawkesbury",
+      "HAWKESBURY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-092",
+    "null": [
+      "Hawks Nest",
+      "HAWKS NEST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-540",
+    "null": [
+      "Helensvale",
+      "HELENSVALE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-505",
+    "null": [
+      "Hervey Bay",
+      "HERVEY BAY CITY BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "7-865",
+    "null": [
+      "HOBART CITY BRI",
+      "HOBART CITY BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-097",
+    "null": [
+      "HUNTER BRIDGE C",
+      "HUNTER BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-098",
+    "null": [
+      "Hunters Hill",
+      "HUNTERS HILL BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-099",
+    "null": [
+      "HURSTVILLE BRID",
+      "HURSTVILLE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-105",
+    "null": [
+      "Illawarra",
+      "Illawarra Bridge Association"
+    ]
+  },
+  {
+    "<!doctype html>": "2-100",
+    "null": [
+      "INGLEBURN RSL B",
+      "INGLEBURN RSL BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-060",
+    "null": [
+      "Inverell Delvyn",
+      "INVERELL DELVYN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-630",
+    "null": [
+      "Ipswich",
+      "Ipswich Contract Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-770",
+    "null": [
+      "ITALIAN BRIDGE ",
+      "ITALIAN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-376",
+    "null": [
+      "KLTC",
+      "K.L.T.C. BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-772",
+    "null": [
+      "Kalamunda",
+      "KALAMUNDA DISTRICTS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-774",
+    "null": [
+      "Kalgoorlie",
+      "KALGOORLIE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-375",
+    "null": [
+      "KATTERY BRIDGE ",
+      "KATTERY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-632",
+    "null": [
+      "Kenmore",
+      "KENMORE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-086",
+    "null": [
+      "Kiama",
+      "KIAMA & DISTRICT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-106",
+    "null": [
+      "KILLARA BRIDGE ",
+      "KILLARA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-633",
+    "null": [
+      "KINGAROY CONTRA",
+      "KINGAROY CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-818",
+    "null": [
+      "KINGBOROUGH BRI",
+      "KINGBOROUGH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-361",
+    "null": [
+      "KNOX BRIDGE CLU",
+      "KNOX BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-775",
+    "null": [
+      "KOJONUP BRIDGE ",
+      "KOJONUP BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-108",
+    "null": [
+      "KU-RING-GAI BRI",
+      "KU-RING-GAI BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-379",
+    "null": [
+      "LAKES ENTRANCE ",
+      "LAKES ENTRANCE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-824",
+    "null": [
+      "Launceston",
+      "LAUNCESTON BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-116",
+    "null": [
+      "LEETON SOLDIERS",
+      "LEETON SOLDIERS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-114",
+    "null": [
+      "LENNOX HEAD BRI",
+      "LENNOX HEAD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-123",
+    "null": [
+      "LISMORE BRIDGE ",
+      "LISMORE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-637",
+    "null": [
+      "Lockyer",
+      "Lockyer Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-125",
+    "null": [
+      "LONG REEF BRIDG",
+      "LONG REEF BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-126",
+    "null": [
+      "MACARTHUR COLLE",
+      "MACARTHUR COLLEGIANS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-776",
+    "null": [
+      "MACCABI CONTRAC",
+      "MACCABI CONTRACT BRIDGE"
+    ]
+  },
+  {
+    "<!doctype html>": "3-405",
+    "null": [
+      "Macedon Ranges",
+      "Macedon Ranges Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-640",
+    "null": [
+      "Mackay",
+      "MACKAY CONTRACT BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-133",
+    "null": [
+      "Maitland",
+      "MAITLAND BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-778",
+    "null": [
+      "Mandurah",
+      "MANDURAH BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-138",
+    "null": [
+      "MANLY GOLF CLUB",
+      "MANLY GOLF CLUB BRIDGE GROUP"
+    ]
+  },
+  {
+    "<!doctype html>": "2-140",
+    "null": [
+      "MANLY WARRINGAH",
+      "MANLY WARRINGAH LEAGUES BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-781",
+    "null": [
+      "MARGARET RIVER ",
+      "MARGARET RIVER BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-645",
+    "null": [
+      "MARYBOROUGH CON",
+      "MARYBOROUGH CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-777",
+    "null": [
+      "Maylands",
+      "MAYLANDS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-408",
+    "null": [
+      "MELBOURNE CONTR",
+      "MELBOURNE CONTRACT BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-142",
+    "null": [
+      "MEREWETHER SOUT",
+      "MEREWETHER SOUTH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-144",
+    "null": [
+      "MILTON BRIDGE C",
+      "MILTON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-146",
+    "null": [
+      "Mollymook",
+      "Mollymook Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-012",
+    "null": [
+      "MONA VALE BRIDG",
+      "MONA VALE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "1-863",
+    "null": [
+      "Monaro",
+      "Monaro Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-348",
+    "null": [
+      "Moonee Valley",
+      "Moonee Valley Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-149",
+    "null": [
+      "MOREE BRIDGE CL",
+      "MOREE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-650",
+    "null": [
+      "Moreton Bribie",
+      "Moreton Bribie Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-415",
+    "null": [
+      "Mornington",
+      "Mornington Bridge Group"
+    ]
+  },
+  {
+    "<!doctype html>": "2-241",
+    "null": [
+      "Moruya",
+      "Moruya Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-151",
+    "null": [
+      "MOSMAN PARK BRI",
+      "MOSMAN PARK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-410",
+    "null": [
+      "MOUNT MARTHA BR",
+      "MOUNT MARTHA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-153",
+    "null": [
+      "Mudgee",
+      "Mudgee Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-652",
+    "null": [
+      "Mudgeeraba",
+      "MUDGEERABA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-158",
+    "null": [
+      "MURWILLUMBAH BR",
+      "MURWILLUMBAH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-155",
+    "null": [
+      "MUSWELLBROOK BR",
+      "MUSWELLBROOK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-170",
+    "null": [
+      "Nambucca Valley",
+      "NAMBUCCA VALLEY BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-145",
+    "null": [
+      "NARRABEEN BRIDG",
+      "NARRABEEN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-168",
+    "null": [
+      "NARROMINE & TRA",
+      "NARROMINE & TRANGIE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-785",
+    "null": [
+      "Nedlands",
+      "NEDLANDS BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-163",
+    "null": [
+      "Nelson Bay",
+      "NELSON BAY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-175",
+    "null": [
+      "New England",
+      "NEW ENGLAND BRIDGE GROUP"
+    ]
+  },
+  {
+    "<!doctype html>": "2-001",
+    "null": [
+      "NSWBA",
+      "NEW SOUTH WALES BRIDGE ASSOCIATION INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-160",
+    "null": [
+      "Newcastle",
+      "NEWCASTLE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-657",
+    "null": [
+      "Noosa",
+      "NOOSA BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-120",
+    "null": [
+      "North Shore",
+      "NORTH SHORE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-190",
+    "null": [
+      "North Sydney",
+      "NORTH SYDNEY LEAGUES BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-793",
+    "null": [
+      "Northern Distri",
+      "Northern Districts Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-545",
+    "null": [
+      "Nth Suburbs",
+      "NORTHERN SUBURBS BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "8-901",
+    "null": [
+      "Northern Territ",
+      "Northern Territory Bridge Association"
+    ]
+  },
+  {
+    "<!doctype html>": "2-197",
+    "null": [
+      "NYNGAN BRIDGE C",
+      "NYNGAN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-430",
+    "null": [
+      "Ocean Grove",
+      "Ocean Grove Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-152",
+    "null": [
+      "Orange",
+      "ORANGE BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "3-433",
+    "null": [
+      "Wangaratta",
+      "WANGARATTA BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-195",
+    "null": [
+      "Oxley",
+      "OXLEY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "8-940",
+    "null": [
+      "PALMERSTON BRID",
+      "PALMERSTON BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-205",
+    "null": [
+      "Parkes",
+      "PARKES BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-200",
+    "null": [
+      "PARRAMATTA BRID",
+      "PARRAMATTA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-435",
+    "null": [
+      "PAYNESVILLE BRI",
+      "PAYNESVILLE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-210",
+    "null": [
+      "Peninsula",
+      "PENINSULA BRIDGE CLUB - NSW"
+    ]
+  },
+  {
+    "<!doctype html>": "3-437",
+    "null": [
+      "PENINSULA BRIDG",
+      "PENINSULA BRIDGE CLUB - VIC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-216",
+    "null": [
+      "PENRITH BRIDGE ",
+      "PENRITH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-440",
+    "null": [
+      "Phillip Island",
+      "PHILLIP ISLAND BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "2-220",
+    "null": [
+      "Port Hacking",
+      "PORT HACKING BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-225",
+    "null": [
+      "Port Macquarie",
+      "PORT MACQUARIE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-227",
+    "null": [
+      "Pt Mac Hastings",
+      "PORT MACQUARIE HASTINGS BRIDGE ASSOCIATI"
+    ]
+  },
+  {
+    "<!doctype html>": "2-222",
+    "null": [
+      "Port Stephens",
+      "PORT STEPHENS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-666",
+    "null": [
+      "PROSERPINE WHIT",
+      "PROSERPINE WHITSUNDAY CONTRACT BRIDGE CL"
+    ]
+  },
+  {
+    "<!doctype html>": "4-501",
+    "null": [
+      "QBA",
+      "QUEENSLAND BRIDGE ASSOCIATION INC"
+    ]
+  },
+  {
+    "<!doctype html>": "4-555",
+    "null": [
+      "QCBC",
+      "QUEENSLAND CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-223",
+    "null": [
+      "QUICK TRICKS BR",
+      "QUICK TRICKS BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-230",
+    "null": [
+      "RANDWICK BRIDGE",
+      "RANDWICK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-445",
+    "null": [
+      "RAVENS BRIDGE C",
+      "RAVENS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-560",
+    "null": [
+      "Redcliffe",
+      "Redcliffe Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-510",
+    "null": [
+      "Redland",
+      "Redland Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-232",
+    "null": [
+      "REEF BRIDGE CLU",
+      "REEF BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "5-730",
+    "null": [
+      "REYNELLA BRIDGE",
+      "REYNELLA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-675",
+    "null": [
+      "Rockhampton",
+      "ROCKHAMPTON CONTRACT BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "6-784",
+    "null": [
+      "Rockingham",
+      "ROCKINGHAM BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-670",
+    "null": [
+      "Roma",
+      "ROMA CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-253",
+    "null": [
+      "ROYAL SYDNEY GO",
+      "ROYAL SYDNEY GOLF BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-451",
+    "null": [
+      "RYE BEACH BRIDG",
+      "RYE BEACH BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-455",
+    "null": [
+      "Sale",
+      "SALE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-242",
+    "null": [
+      "SOCIAL BRIDGE -",
+      "SOCIAL BRIDGE - RYDE"
+    ]
+  },
+  {
+    "<!doctype html>": "5-701",
+    "null": [
+      "SABA",
+      "SOUTH AUSTRALIAN BRIDGE ASSOCIATION"
+    ]
+  },
+  {
+    "<!doctype html>": "5-700",
+    "null": [
+      "SABF",
+      "SOUTH AUSTRALIAN BRIDGE FEDERATION"
+    ]
+  },
+  {
+    "<!doctype html>": "1-893",
+    "null": [
+      "South Canberra",
+      "South Canberra Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-787",
+    "null": [
+      "South Coast",
+      "SOUTH COAST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-465",
+    "null": [
+      "Sth Gippsland",
+      "SOUTH GIPPSLAND BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-788",
+    "null": [
+      "South Perth",
+      "South Perth Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-251",
+    "null": [
+      "Sth Highlands",
+      "SOUTHERN HIGHLANDS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-237",
+    "null": [
+      "St George Budapest",
+      "ST GEORGE BUDAPEST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "5-738",
+    "null": [
+      "St Vincents Con",
+      "St Vincents Contract Bridge Club Inc"
+    ]
+  },
+  {
+    "<!doctype html>": "4-679",
+    "null": [
+      "Stanthorpe",
+      "STANTHORPE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-250",
+    "null": [
+      "STRATHFIELD BRI",
+      "STRATHFIELD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-470",
+    "null": [
+      "Sunbury",
+      "SUNBURY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-566",
+    "null": [
+      "Sunnybank",
+      "SUNNYBANK CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-680",
+    "null": [
+      "Sunshine Coast",
+      "Sunshine Coast Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-682",
+    "null": [
+      "SURFERS PARADIS",
+      "SURFERS PARADISE BRIDGE CLUB INCORPORATE"
+    ]
+  },
+  {
+    "<!doctype html>": "6-789",
+    "null": [
+      "Swan",
+      "Swan Districts Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-249",
+    "null": [
+      "SYDNEY CHINESE ",
+      "SYDNEY CHINESE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-683",
+    "null": [
+      "TABLELANDS BRID",
+      "TABLELANDS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-844",
+    "null": [
+      "Tamar",
+      "TAMAR BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-685",
+    "null": [
+      "Tamborine Mtn",
+      "TAMBORINE MOUNTAIN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-255",
+    "null": [
+      "Tamworth",
+      "Tamworth Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-256",
+    "null": [
+      "Taree",
+      "TAREE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-801",
+    "null": [
+      "Tasmania",
+      "TASMANIAN BRIDGE ASSOCIATION"
+    ]
+  },
+  {
+    "<!doctype html>": "2-252",
+    "null": [
+      "Tenterfield",
+      "TENTERFIELD BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-078",
+    "null": [
+      "Grafton",
+      "GRAFTON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-226",
+    "null": [
+      "Pt Mac Panthers",
+      "PORT MACQUARIE PANTHERS BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-234",
+    "null": [
+      "Sapphire Coast",
+      "SAPPHIRE COAST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-238",
+    "null": [
+      "ST GEORGE BRIDG",
+      "ST GEORGE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-475",
+    "null": [
+      "THEODOR HERZL S",
+      "THEODOR HERZL SOCIAL CLUB BRIDGE SECTION"
+    ]
+  },
+  {
+    "<!doctype html>": "2-258",
+    "null": [
+      "Tilligerry",
+      "TILLIGERRY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-572",
+    "null": [
+      "Toowong",
+      "TOOWONG BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "4-688",
+    "null": [
+      "Toowoomba",
+      "TOOWOOMBA BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-257",
+    "null": [
+      "Toronto",
+      "TORONTO BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-690",
+    "null": [
+      "Townsville",
+      "TOWNSVILLE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-477",
+    "null": [
+      "Traralgon",
+      "TRARALGON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-259",
+    "null": [
+      "Trumps",
+      "TRUMPS BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "4-693",
+    "null": [
+      "Tully",
+      "TULLY DUPLICATE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-261",
+    "null": [
+      "Tumbarumba",
+      "TUMBARUMBA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-262",
+    "null": [
+      "TUMUT BRIDGE CL",
+      "TUMUT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-266",
+    "null": [
+      "TURRAMURRA BRID",
+      "TURRAMURRA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-260",
+    "null": [
+      "TWEED BRIDGE CL",
+      "TWEED BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-263",
+    "null": [
+      "Twin Towns",
+      "Twin Towns Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-365",
+    "null": [
+      "U3A",
+      "U3A BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "7-860",
+    "null": [
+      "ULVERSTONE BRID",
+      "ULVERSTONE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-792",
+    "null": [
+      "Undercroft",
+      "UNDERCROFT BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "3-481",
+    "null": [
+      "Upwey",
+      "UPWEY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-301",
+    "null": [
+      "VBA",
+      "VICTORIAN BRIDGE ASSOCIATION"
+    ]
+  },
+  {
+    "<!doctype html>": "6-791",
+    "null": [
+      "Village",
+      "VILLAGE BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-267",
+    "null": [
+      "Wagga Wagga",
+      "WAGGA WAGGA BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "3-478",
+    "null": [
+      "Warrnambool",
+      "WARRNAMBOOL BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "4-696",
+    "null": [
+      "Warwick",
+      "WARWICK BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-480",
+    "null": [
+      "Waverley",
+      "WAVERLEY BRIDGE CLUB INC"
+    ]
+  },
+  {
+    "<!doctype html>": "2-268",
+    "null": [
+      "Wellington",
+      "WELLINGTON BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "6-795",
+    "null": [
+      "West Australian",
+      "West Australian Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-794",
+    "null": [
+      "West Coast",
+      "WEST COAST BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-270",
+    "null": [
+      "WESTERN SUBURBS",
+      "WESTERN SUBURBS BRIDGE CLUB - NSW"
+    ]
+  },
+  {
+    "<!doctype html>": "4-698",
+    "null": [
+      "WESTERN SUBURBS",
+      "WESTERN SUBURBS BRIDGE CLUB - QLD"
+    ]
+  },
+  {
+    "<!doctype html>": "5-747",
+    "null": [
+      "Whyalla",
+      "WHYALLA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-483",
+    "null": [
+      "Williamstown",
+      "WILLIAMSTOWN BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-486",
+    "null": [
+      "WODONGA CONTRAC",
+      "WODONGA CONTRACT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-280",
+    "null": [
+      "WOLLSTONECRAFT ",
+      "WOLLSTONECRAFT BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-295",
+    "null": [
+      "Yamba",
+      "Yamba Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-496",
+    "null": [
+      "Yarra Valley",
+      "YARRA VALLEY BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "3-497",
+    "null": [
+      "Yarrawonga",
+      "YARRAWONGA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-112",
+    "null": [
+      "Kings & Queens ",
+      "Kings & Queens Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "2-235",
+    "null": [
+      "Nowra",
+      "NOWRA BRIDGE CLUB"
+    ]
+  },
+  {
+    "<!doctype html>": "2-RIV",
+    "null": [
+      "Riverview",
+      "Riverview Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "1-GSC",
+    "null": [
+      "GS Canberra",
+      "Grand Slam Canberra"
+    ]
+  },
+  {
+    "<!doctype html>": "1-GS2",
+    "null": [
+      "GS Canberra",
+      "Grand Slam Canberra"
+    ]
+  },
+  {
+    "<!doctype html>": "2-GSD",
+    "null": [
+      "Double Bay",
+      "Double Bay Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "2-GS2",
+    "null": [
+      "Double Bay",
+      "Double Bay Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "4-MAL",
+    "null": [
+      "Maleny",
+      "Maleny Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-YEP",
+    "null": [
+      "Yeppoon",
+      "Yeppoon Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-843",
+    "null": [
+      "Coolah",
+      "Coolah Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-QUI",
+    "null": [
+      "Quirindi",
+      "Quirindi Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-HAM",
+    "null": [
+      "Hamilton",
+      "Hamilton Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-224",
+    "null": [
+      "Quirindi",
+      "Quirindi Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-WOO",
+    "null": [
+      "Woolgoolga",
+      "Woolgoolga Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-WHI",
+    "null": [
+      "Whittlesea",
+      "Whittlesea Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "5-RIV",
+    "null": [
+      "Riverland",
+      "Riverland Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-771",
+    "null": [
+      "Kendenup",
+      "Kendenup Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "5-POR",
+    "null": [
+      "Port Pirie",
+      "Port Pirie Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-681",
+    "null": [
+      "Sunshine Coast B",
+      "Sunshine Coast Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-240",
+    "null": [
+      "Springwood",
+      "Springwood Contract Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-677",
+    "null": [
+      "Sanctuary Cove",
+      "Sanctuary Cove Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-079",
+    "null": [
+      "Grange",
+      "The Grange Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "2-035",
+    "null": [
+      "Bateau Bay",
+      "Community Bridge Club Bateau Bay"
+    ]
+  },
+  {
+    "<!doctype html>": "2-650",
+    "null": [
+      "Riverview",
+      "Riverview Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-578",
+    "null": [
+      "Airlie Beach",
+      "Airlie Beach Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "5-702",
+    "null": [
+      "SABA_2",
+      "SOUTH AUSTRALIAN BRIDGE ASSOCIATION"
+    ]
+  },
+  {
+    "<!doctype html>": "6-796",
+    "null": [
+      "Undercroft 2",
+      "UNDERCROFT BRIDGE CLUB INC."
+    ]
+  },
+  {
+    "<!doctype html>": "3-412",
+    "null": [
+      "Melton",
+      "Melton Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "5-725",
+    "null": [
+      "Port Pirie",
+      "Port Pirie Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-769",
+    "null": [
+      "Denmark",
+      "Denmark Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-552",
+    "null": [
+      "Maleny",
+      "Maleny Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-307",
+    "null": [
+      "Bairnsdale 2",
+      "BAIRNSDALE BRIDGE CLUB INCORPORATED"
+    ]
+  },
+  {
+    "<!doctype html>": "6-765",
+    "null": [
+      "Bayswater",
+      "Bayswater Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-062",
+    "null": [
+      "GS Double Bay 2",
+      "DOUBLE BAY BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "5-713",
+    "null": [
+      "Mt Gambier",
+      "Mt Gambier Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-311",
+    "null": [
+      "Bayside",
+      "Bayside Bridge Centre"
+    ]
+  },
+  {
+    "<!doctype html>": "4-628",
+    "null": [
+      "Ingham",
+      "Ingham Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-044",
+    "null": [
+      "Bayview",
+      "Bayview Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "4-699",
+    "null": [
+      "Yeppoon",
+      "Yeppoon Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-328",
+    "null": [
+      "Deniliquin",
+      "Deniliquin Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-BEE",
+    "null": [
+      "Beerwah",
+      "Beerwah Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-265",
+    "null": [
+      "Sydney Uni",
+      "Sydney University Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-075",
+    "null": [
+      "Glenbrook",
+      "Glenbrook Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "6-797",
+    "null": [
+      "Willetton",
+      "Willetton Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-401",
+    "null": [
+      "Maine",
+      "Maine Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-046",
+    "null": [
+      "Belmont",
+      "Belmont Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-040",
+    "null": [
+      "Cromer",
+      "Cromer Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-460",
+    "null": [
+      "Shepparton",
+      "Shepparton Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-173",
+    "null": [
+      "Nambucca River",
+      "Nambucca River Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-425",
+    "null": [
+      "Northern",
+      "Northern Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-906",
+    "null": [
+      "Sydney",
+      "SYDNEY BRIDGE CENTRE"
+    ]
+  },
+  {
+    "<!doctype html>": "2-212",
+    "null": [
+      "Peninsula 3",
+      "PENINSULA BRIDGE CLUB - NSW"
+    ]
+  },
+  {
+    "<!doctype html>": "2-211",
+    "null": [
+      "Peninsula 2",
+      "PENINSULA BRIDGE CLUB - NSW"
+    ]
+  },
+  {
+    "<!doctype html>": "1-912",
+    "null": [
+      "Australian Bridge",
+      "Australian Bridge"
+    ]
+  },
+  {
+    "<!doctype html>": "6-783",
+    "null": [
+      "Joondalup",
+      "Joondalup Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "2-254",
+    "null": [
+      "Tomaree",
+      "Tomaree Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-321",
+    "null": [
+      "Bright",
+      "Bright Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "3-442",
+    "null": [
+      "RACV",
+      "RACV Bridge Club"
+    ]
+  },
+  {
+    "<!doctype html>": "    </pre>"
+  },
+  {
+    "<!doctype html>": "  </body>"
+  },
+  {
+    "<!doctype html>": "</html>"
+  }
+]
